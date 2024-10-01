@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aysel</h1>
+<p align="left">A passionate software developer, living in Germany.I describe myself as a friendly social person. I have 4+ year commercial experience in software development. I love to code with Python and Javascript. Love to learn new technologies and frameworks.</p>
 
-<!--
-**AyselHavutcu/AyselHavutcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on **exiting projects**
+- 👨🏻‍💻 Currently working on:
+<p dir="auto"><code><a href="https://www.python.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/cbe30b76d8a26941d949ac29f4b962821c1b8d942017bbce487b32cdccc0feec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" style="max-width: 100%;"></a></code>
+<code><a href="https://www.djangoproject.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/6434dec58d679fd1acf8c723e154a0d318c2223ff480722cab3472b41151c5ef/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646a616e676f70726f6a6563742f646a616e676f70726f6a6563742d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" style="max-width: 100%;"></a></code>
+<code><a href="https://fastapi.tiangolo.com/" rel="nofollow"><img height="50" src="https://repository-images.githubusercontent.com/260928305/92388600-8d1c-11ea-9993-a726466b5099" style="max-width: 100%;"></a></code>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<code><a href="https://www.typescriptlang.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/fca8828827510fc1245e6019ab5507c421baf42711bd9f24217c0abdd140f0eb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f747970657363726970746c616e672f747970657363726970746c616e672d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" style="max-width: 100%;"></a></code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 
-Here are some ideas to get you started:
+❤️ Love to use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p dir="auto"><code><a href="https://www.jetbrains.com/pycharm/" rel="nofollow"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/pycharm.svg" style="max-width: 100%;"></a></code>
+<code><a href="https://code.visualstudio.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/e533bf76cdab545242be1875a9fb4396d5eb4ad2fccf4a08afd8dc43a3bbfabb/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f562f76697375616c2d73747564696f2d636f64652d6c6f676f2d343439443731393434462d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" style="max-width: 100%;"></a></code>
+<code><a href="https://www.docker.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/07aedceaa932e42fcd69f86543c3f5ac931db6f011b670a435eebbc88780be2b/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f442f646f636b65722d6c6f676f2d364436463938373730322d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" style="max-width: 100%;"></a></code>
+<code><a href="https://aws.amazon.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/4961844ae9d40cc415288b2a4bb8b65a646ea0f55165eadf50342a981f998ed0/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f412f616d617a6f6e2d7765622d73657276696365732d6177732d6c6f676f2d364332453344434433452d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" style="max-width: 100%;"></a></code>
+<code><a href="https://www.mysql.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/7ffe065f0566855ccc002dbc7a6d5bb115dbebd7f7d6fc84199c7e4ff4359aba/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" style="max-width: 100%;"></a></code>
+<code><a href="https://www.postgresql.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/72736407a8f8418390b35a0fc748635b0d3694dcb4960c16e804454cf2be89cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d766572746963616c2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" style="max-width: 100%;"></a></code></p>
+
+🌱 I’m currently learning:
+<code><a href="https://reactjs.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/d199c001067f7a8a8e3aa1ca777c85122dd0e9c088682a6cf6a36323f607f5ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" style="max-width: 100%;"></a></code>
+<code><a href="https://nodejs.org/en/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/d05ae82397d5d3ad8100a00860dd3d1cebf41bed2f8866bcbcd25b42730cccd8/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d303635323537444532342d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" style="max-width: 100%;"></a></code>
