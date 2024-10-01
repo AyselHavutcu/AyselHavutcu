@@ -23,5 +23,6 @@
 <code><a href="https://www.postgresql.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/72736407a8f8418390b35a0fc748635b0d3694dcb4960c16e804454cf2be89cb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d766572746963616c2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" style="max-width: 100%;"></a></code></p>
 
 🌱 I’m currently learning:
+
 <code><a href="https://reactjs.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/d199c001067f7a8a8e3aa1ca777c85122dd0e9c088682a6cf6a36323f607f5ea/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" style="max-width: 100%;"></a></code>
 <code><a href="https://nodejs.org/en/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/d05ae82397d5d3ad8100a00860dd3d1cebf41bed2f8866bcbcd25b42730cccd8/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4e2f6e6f64656a732d6c6f676f2d303635323537444532342d7365656b6c6f676f2e636f6d2e706e67" data-canonical-src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" style="max-width: 100%;"></a></code>
